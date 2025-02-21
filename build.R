@@ -3,11 +3,11 @@
 # ------------------------------- #
 
 # Remove previous version just in Case
-remove.packages("epuRate")
+remove.packages("ProjectTemplates")
 
 # Install with devtools
 library(devtools)
-devtools::install("../epuRate")
+devtools::install("../ProjectTemplates")
 
 # Load to check it is all good
-library(epuRate)
+library(ProjectTemplates)

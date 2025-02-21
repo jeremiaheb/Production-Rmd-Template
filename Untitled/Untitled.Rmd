@@ -1,0 +1,17 @@
+---
+title: "Personal Template"
+author: "[Jeremiah Blondeau](https://github.com/jeremiaheb)"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+mail: "jblondeau@gmail.com"
+github: "jeremiaheb"
+logo: "logo_gallery.png"
+output:
+  ProjectTemplates::Personal:
+    toc: TRUE
+    number_sections: FALSE
+    code_folding: "hide"
+---
+
+
+<br><br>
+
